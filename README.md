@@ -1,2 +1,5 @@
 # recipe_app
-django recipe-app at your service 
+
+Marking every step it took to complete this project.
+
+<h2>creating the project</h2>
